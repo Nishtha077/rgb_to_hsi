@@ -3,7 +3,7 @@ import argparse
 import os
 import torch.backends.cudnn as cudnn
 from architecture import *
-from utils import save_matv73
+from rgb_to_hsi.utils_hsi import save_matv73
 import cv2
 import numpy as np
 import itertools
