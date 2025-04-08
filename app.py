@@ -4,7 +4,7 @@ import numpy as np
 import os
 import cv2
 from architecture import model_generator
-from utils import save_matv73
+from utils_hsi import save_matv73
 from test import forward_ensemble
 
 # Constants
